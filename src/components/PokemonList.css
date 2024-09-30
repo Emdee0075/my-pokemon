@@ -1,0 +1,28 @@
+.pokemon-list {
+  text-align: center;
+  background-color: aqua;
+}
+
+.pokemon-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  color:green;
+}
+
+.pokemon-item {
+  margin: 10px;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-decoration: none;
+  color: black;
+}
+
+.pokemon-item:hover {
+  background-color: blueviolet;
+}
+
+.loading, .error {
+  margin-top: 20px;
+}

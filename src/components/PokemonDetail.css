@@ -1,0 +1,12 @@
+.pokemon-detail {
+    text-align: center;
+  }
+  
+  .pokemon-detail img {
+    max-width: 200px;
+  }
+  
+  .pokemon-detail p {
+    font-size: 18px;
+  }
+  
